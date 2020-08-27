@@ -27,6 +27,8 @@ IndexBuffer.h
 /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/IndexBuffer.h
 VertexArray.h
 /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/VertexArray.h
+Shader.h
+/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/Shader.h
 
 /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/IndexBuffer.cpp
 IndexBuffer.h
@@ -48,6 +50,26 @@ iostream
 glad/glad.h
 -
 cassert
+-
+
+/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.cpp
+Shader.h
+/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.h
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+Renderer.h
+/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Renderer.h
+
+/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.h
+string
+-
+unordered_map
 -
 
 /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/VertexArray.cpp
@@ -148,6 +170,12 @@ iostream
 glad/glad.h
 -
 cassert
+-
+
+src/Shader.h
+string
+-
+unordered_map
 -
 
 src/VertexArray.h

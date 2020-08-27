@@ -7,6 +7,7 @@ CMakeFiles/deneme1.dir/deneme1.cpp.o: libraries/glad/include/KHR/khrplatform.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: libraries/glad/include/glad/glad.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: src/IndexBuffer.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: src/Renderer.h
+CMakeFiles/deneme1.dir/deneme1.cpp.o: src/Shader.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: src/VertexArray.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: src/VertexBuffer.h
 CMakeFiles/deneme1.dir/deneme1.cpp.o: src/VertexBufferLayout.h
@@ -21,6 +22,12 @@ CMakeFiles/deneme1.dir/src/Renderer.cpp.o: src/Renderer.cpp
 CMakeFiles/deneme1.dir/src/Renderer.cpp.o: src/Renderer.h
 CMakeFiles/deneme1.dir/src/Renderer.cpp.o: libraries/glad/include/KHR/khrplatform.h
 CMakeFiles/deneme1.dir/src/Renderer.cpp.o: libraries/glad/include/glad/glad.h
+
+CMakeFiles/deneme1.dir/src/Shader.cpp.o: src/Renderer.h
+CMakeFiles/deneme1.dir/src/Shader.cpp.o: src/Shader.cpp
+CMakeFiles/deneme1.dir/src/Shader.cpp.o: src/Shader.h
+CMakeFiles/deneme1.dir/src/Shader.cpp.o: libraries/glad/include/KHR/khrplatform.h
+CMakeFiles/deneme1.dir/src/Shader.cpp.o: libraries/glad/include/glad/glad.h
 
 CMakeFiles/deneme1.dir/src/VertexArray.cpp.o: src/Renderer.h
 CMakeFiles/deneme1.dir/src/VertexArray.cpp.o: src/VertexArray.cpp

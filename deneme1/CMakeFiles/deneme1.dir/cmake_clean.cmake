@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/deneme1.dir/src/VertexBuffer.cpp.o"
   "CMakeFiles/deneme1.dir/src/VertexArray.cpp.o"
   "CMakeFiles/deneme1.dir/src/VertexBufferLayout.cpp.o"
+  "CMakeFiles/deneme1.dir/src/Shader.cpp.o"
   "deneme1.pdb"
   "deneme1"
 )

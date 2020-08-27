@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/deneme1.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/deneme1.cpp.o"
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/IndexBuffer.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/IndexBuffer.cpp.o"
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Renderer.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/Renderer.cpp.o"
+  "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/Shader.cpp.o"
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/VertexArray.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/VertexArray.cpp.o"
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/VertexBuffer.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/VertexBuffer.cpp.o"
   "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/VertexBufferLayout.cpp" "/home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/CMakeFiles/deneme1.dir/src/VertexBufferLayout.cpp.o"

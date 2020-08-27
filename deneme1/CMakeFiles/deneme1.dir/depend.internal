@@ -8,6 +8,7 @@ CMakeFiles/deneme1.dir/deneme1.cpp.o
  libraries/glad/include/glad/glad.h
  src/IndexBuffer.h
  src/Renderer.h
+ src/Shader.h
  src/VertexArray.h
  src/VertexBuffer.h
  src/VertexBufferLayout.h
@@ -20,6 +21,12 @@ CMakeFiles/deneme1.dir/src/IndexBuffer.cpp.o
 CMakeFiles/deneme1.dir/src/Renderer.cpp.o
  /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Renderer.cpp
  /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Renderer.h
+ libraries/glad/include/KHR/khrplatform.h
+ libraries/glad/include/glad/glad.h
+CMakeFiles/deneme1.dir/src/Shader.cpp.o
+ /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Renderer.h
+ /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.cpp
+ /home/tuttyfrutyee/Documents/programmingPlayground/opengl/denemeler/deneme1/src/Shader.h
  libraries/glad/include/KHR/khrplatform.h
  libraries/glad/include/glad/glad.h
 CMakeFiles/deneme1.dir/src/VertexArray.cpp.o

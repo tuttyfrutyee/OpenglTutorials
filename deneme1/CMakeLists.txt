@@ -20,6 +20,7 @@ SET(SOURCE_FILES deneme1.cpp
  src/VertexBuffer.cpp src/VertexBuffer.h
  src/VertexArray.cpp src/VertexArray.h
  src/VertexBufferLayout.h src/VertexBufferLayout.cpp
+ src/Shader.h src/Shader.cpp
  )
 
 include_directories("${PROJECT_SOURCE_DIR}/src")
